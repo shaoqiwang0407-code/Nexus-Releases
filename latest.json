@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "Nexus desktop release refreshed with the Nexus-Wuxiang frontend baseline and updater metadata.",
-  "pub_date": "2026-06-04T04:42:49Z",
+  "version": "0.1.1",
+  "notes": "Nexus now checks for updates on startup, installs available signed updates automatically, and keeps the copied Nexus-Wuxiang frontend baseline.",
+  "pub_date": "2026-06-04T05:23:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSczh4QWJxekM1WEdTMlpRN25QNk95RUpWbHpWc3c4dW1ONFY1WlNTUFlSczd3eXJ2N1ZDR3lKbkU5SUw2Y3dxRjFpbHpIV254NGV3WEZwajBNUTZrSHlaOWdDanpjTkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNTQ4MTMxCWZpbGU6TmV4dXNfMC4xLjBfeDY0LXNldHVwLmV4ZQpNcFhjcktTODhKMVJiWjN0Nm9sYjNDY1VnamFXOVl6RW5sYWdlaW5rTTQ2TkxLYVZqS1FlRHMxU0VTVjlyWFVqWjEydjFOeXRQemFoQlFrVm9Xb2ZEQT09Cg==",
-      "url": "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Releases/main/Nexus_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSczh4QWJxekM1WEVMblBIRUxmc0RGQjQ0S2RMWFM5aXBSZ1FhenRualZSaXBkZm5OVk1nbVQxbHhRRitOQ3RuaUpxRHROVURIS3lGM3ZLT3ZZYjhlZW5ZNnhDMWxKN1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNTUwNTcwCWZpbGU6TmV4dXNfMC4xLjFfeDY0LXNldHVwLmV4ZQpDei8xZHhQZmdhbGplMU1lVERnVm11M1pqUkRRa2ZlbGNuWEE5aGZ6RFlZZWZPOFdwbks3ZVRTNFRpN093bXpNN2ZYSHhPR0RwTDlLVkVqMkVpR25DUT09Cg==",
+      "url": "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Releases/main/Nexus_0.1.1_x64-setup.exe"
     }
   }
 }
