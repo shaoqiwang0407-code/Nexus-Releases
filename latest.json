@@ -1,10 +1,10 @@
 {
   "version": "0.1.0",
   "notes": "Initial Nexus Tauri desktop release with updater metadata.",
-  "pub_date": "2026-06-04T03:52:45Z",
+  "pub_date": "2026-06-04T04:00:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSczh4QWJxekM1WE8xQ29oNzlVT2NHUlA5aXNHMXYyU0RzUEVHRVJLSUpMYkE5c0hnTjBWUnRZbzMwdGFBQVZNcmlhL3drdFA1VFBhYzBIbE9GdTdQR2huSXZCVVBsUVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNTQ1MTIwCWZpbGU6TmV4dXNfMC4xLjBfeDY0LXNldHVwLmV4ZQpQQmJGdG80Mlk3d2xlU3dscW5rcWU1NVJVd2RpWU1ZWjh5SzFtZU1tL2JIc3RNYU5VVjl3cllUUTFRQS9sTittVnRPUHhjMW5OeXJsS2RFdS94UnRBQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSczh4QWJxekM1WElwQXNORjI4NHFSeHBDNVVlWG50UXlEdWFiMnYrMkNXSkNyekszNG15ckNaTDRmY3phRnB4U1QxK013UktOdWg4VHFyMjh5eitaRDFTUmR2cEkxMXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNTQ1NjA1CWZpbGU6TmV4dXNfMC4xLjBfeDY0LXNldHVwLmV4ZQpvQ1RWdnNIOEtmd2hCOUFQWDdpNThHWEtzZmdpaXdYak1rY2h1ZnQ1U3FUeC9LVEsyTUVMaWRiZFJsZW9uV0ZWVFZ1Snd1ZXN6R2FQLzU1NU5FYm1BZz09Cg==",
       "url": "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Releases/main/Nexus_0.1.0_x64-setup.exe"
     }
   }
